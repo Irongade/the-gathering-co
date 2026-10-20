@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="The Gathering Co. Event hire">
+  <!-- [TODO] placeholder: replace with the round brand logo supplied by the owner -->
+  <circle cx="200" cy="200" r="190" fill="#efe3d6" stroke="#a8865f" stroke-width="4"/>
+  <circle cx="200" cy="200" r="172" fill="none" stroke="#a8865f" stroke-width="1"/>
+  <g fill="none" stroke="#5f6f4e" stroke-width="2.2" stroke-linecap="round">
+    <path d="M70 250c20-30 48-48 84-54"/>
+    <path d="M94 230c-8-9-9-20-4-30 10 4 15 13 14 24"/>
+    <path d="M118 212c-3-11 0-20 7-27 7 5 9 14 6 25"/>
+    <path d="M330 250c-20-30-48-48-84-54"/>
+    <path d="M306 230c8-9 9-20 4-30-10 4-15 13-14 24"/>
+    <path d="M282 212c3-11 0-20-7-27-7 5-9 14-6 25"/>
+  </g>
+  <text x="200" y="150" text-anchor="middle" font-family="'Great Vibes','Brush Script MT',cursive" font-style="italic" font-size="56" fill="#a8865f">The</text>
+  <text x="200" y="205" text-anchor="middle" font-family="'Playfair Display',Georgia,serif" font-size="44" letter-spacing="6" fill="#3b2a1e">GATHERING</text>
+  <text x="200" y="250" text-anchor="middle" font-family="'Playfair Display',Georgia,serif" font-size="44" letter-spacing="6" fill="#3b2a1e">CO.</text>
+  <text x="200" y="300" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-size="15" letter-spacing="6" fill="#5f6f4e">EVENT HIRE</text>
+</svg>

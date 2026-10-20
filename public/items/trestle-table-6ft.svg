@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <!-- [TODO] placeholder image; swap for real photography -->
+  <rect width="800" height="1000" fill="#e4e8db"/>
+  <rect x="24" y="24" width="752" height="952" fill="none" stroke="#e3d6c6" stroke-width="2" rx="24"/>
+  <g transform="translate(64 80) scale(5.714285714285714)" fill="none" stroke="#5f6f4e" stroke-width="1.4" stroke-linecap="round">
+    <path d="M8 40c6-16 16-26 32-32"/><path d="M14 30c-4-5-4-11-1-16 5 2 8 7 8 13"/>
+    <path d="M22 21c-2-6 0-11 4-14 4 3 5 8 3 14"/><path d="M31 14c0-5 3-9 8-10 1 5-1 9-5 12"/>
+    <path d="M12 36c-6-1-9-5-9-10 5 0 9 3 11 8"/><path d="M21 27c-6 0-10-3-11-8 5-1 9 1 12 6"/>
+  </g>
+  <g transform="translate(496 620) scale(5.714285714285714)" fill="none" stroke="#a8865f" stroke-width="1.4" stroke-linecap="round">
+    <path d="M8 40c6-16 16-26 32-32"/><path d="M14 30c-4-5-4-11-1-16 5 2 8 7 8 13"/>
+    <path d="M22 21c-2-6 0-11 4-14 4 3 5 8 3 14"/><path d="M31 14c0-5 3-9 8-10 1 5-1 9-5 12"/>
+    <path d="M12 36c-6-1-9-5-9-10 5 0 9 3 11 8"/><path d="M21 27c-6 0-10-3-11-8 5-1 9 1 12 6"/>
+  </g>
+  <text x="400" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="50" fill="#3b2a1e">Trestle table</text>
+  <text x="400" y="566.6666666666666" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" letter-spacing="4" fill="#7a6755">PHOTO TO FOLLOW</text>
+</svg>
