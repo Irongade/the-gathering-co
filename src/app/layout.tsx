@@ -13,10 +13,11 @@ const inter = Inter({
   display: "swap",
 });
 
+// Variable weight: a weight list on this font made Turbopack emit a multi-entry Google font query that fails on Vercel.
 const playfair = Playfair_Display({
   variable: "--font-playfair",
   subsets: ["latin"],
-  weight: ["400", "500"],
+  weight: "variable",
   display: "swap",
 });
 
